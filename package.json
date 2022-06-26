@@ -1,7 +1,7 @@
 {
   "name": "myrestapi",
   "version": "1.0.0",
-  "description": "api for bloggers",
+  "description": "api for students marks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,7 @@
   "author": "joshua",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3"
   }
 }
