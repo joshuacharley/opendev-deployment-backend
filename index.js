@@ -19,8 +19,8 @@ app.use(cors(corsOptions)) // Use this after the variable declaration
 app.use('/', routes);
 
 
-app.listen(3000, () => {
-    console.log('listening on port 3000');
+app.listen(8800, () => {
+    console.log('listening on port 8800');
 })
 
 
