@@ -1,5 +1,5 @@
 {
-  "name": "myrestapi",
+  "name": "opendev-deployment-backend",
   "version": "1.0.0",
   "description": "api for students marks",
   "main": "index.js",
